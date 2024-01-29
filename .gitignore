@@ -16,11 +16,6 @@ bin/
 # Mac OS
 .DS_Store
 
-# Dependencies and referenced libraries
-referenced libraries/
-libs/
-lib/
-
 # Tomcat-related files
 .DriveLinkConvert/
 *.launch
