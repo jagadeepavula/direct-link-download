@@ -1,0 +1,33 @@
+# Eclipse files
+.settings/
+.classpath
+.project
+
+# Compiled files
+bin/
+*.class
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Mac OS
+.DS_Store
+
+# Dependencies and referenced libraries
+referenced libraries/
+libs/
+lib/
+
+# Tomcat-related files
+.DriveLinkConvert/
+*.launch
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+/build/
